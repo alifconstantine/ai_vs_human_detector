@@ -4,7 +4,7 @@
 
 Const AI adalah sebuah aplikasi web yang dibangun dengan Streamlit untuk mendeteksi konten buatan AI dan konten NSFW (Not Safe For Work). Aplikasi ini menggunakan model Google Gemini 2.5 Flash untuk melakukan analisis pada berbagai jenis media, termasuk gambar, video, audio, dan teks.
 
-![Demo Aplikasi Const AI](https://github.com/NAMA_USER_KAMU/NAMA_REPO_KAMU/blob/main/demo.png)
+![Demo Aplikasi Const AI](https://github.com/alifconstantine/ai_vs_human_detector/blob/main/image/preview.png)
 
 ---
 
@@ -53,5 +53,5 @@ Ikuti langkah-langkah ini untuk menjalankan proyek di komputer lokal kamu.
 Pertama, clone repositori ini ke mesin lokal kamu.
 
 ```bash
-git clone [https://github.com/NAMA_USER_KAMU/NAMA_REPO_KAMU.git](https://github.com/NAMA_USER_KAMU/NAMA_REPO_KAMU.git)
-cd NAMA_REPO_KAMU
+git clone https://github.com/alifconstantine/ai_vs_human_detector.git
+cd ai_vs_human_detector

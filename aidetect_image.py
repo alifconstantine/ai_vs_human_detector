@@ -14,7 +14,7 @@ except KeyError:
     print(json.dumps({"error": "GOOGLE_API_KEY tidak ditemukan."}))
     sys.exit(1)
 
-model = genai.GenerativeModel('gemini-2.5-flash')
+model = genai.GenerativeModel('gemini-3-pro')
 
 PROMPT_AI_VS_REAL = """
 Kamu adalah sistem ahli analisis gambar yang bertugas mendeteksi apakah sebuah gambar
